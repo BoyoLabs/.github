@@ -1,3 +1,4 @@
+<pre>
 +-----------------------------------------------------------------------+  
 |  BOYO LABS // CENTRAL REPOSITORY REGISTER                             |  
 +-----------------------------------------------------------------------+  
@@ -15,7 +16,7 @@
   [01] DIGITAL INTERFACES // BROWSER GAMES  
 =========================================================================  
   
-  * [HOME](https://boyolabs.github.com)  
+  * <a href="github.com/BoyoLabs">HOME</a> 
     └─ Since this page is in progress, this is just a place holder.  
     
 
@@ -31,3 +32,4 @@
 +-----------------------------------------------------------------------+  
 | [EOF] END OF MANIFEST // THE WORK DESTROYED IS THE WORK PRESERVED     |  
 +-----------------------------------------------------------------------+  
+</pre>
