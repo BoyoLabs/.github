@@ -16,7 +16,7 @@
   [01] DIGITAL INTERFACES // BROWSER GAMES  
 =========================================================================  
   
-  * <a href="github.com/BoyoLabs">HOME</a> 
+  * <a href="https://github.com/BoyoLabs">HOME</a> 
     └─ Since this page is in progress, this is just a place holder.  
     
 
