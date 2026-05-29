@@ -41,7 +41,9 @@ $> I have always loved computers and programming, so I did a couple <br />certif
 <br />
 $> I first taught computer science, coding & programming k-12 after this.
 <br />
-$> I currently work as a sys admin for a regional ISP.
+$> I then worked as a field network technician for a regional ISP.
+<br />
+$> I currently work as a sys admin for the same ISP.
  
 +-----------------------------------------------------------------------+  
 | [EOF] END OF MANIFEST // THE WORK DESTROYED IS THE WORK PRESERVED     |  
