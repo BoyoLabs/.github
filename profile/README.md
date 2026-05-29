@@ -29,7 +29,7 @@ $> I have my repos pinned below, the README files have links for you to <br />us
 
 $> I focus on web development because I believe that the browser is more <br />capable than we use it for.
 <br />
-$> I also believe that we should not be confied to remoting into a server <br />or anything to actually utilize software. I.E. I believe in software on <br />demand.
+$> I believe in software on demand. This is why most of my work is single <br />page apps (SPA's.)
 
 =========================================================================  
   [03] EDUCATION/EMPLOYMENT
