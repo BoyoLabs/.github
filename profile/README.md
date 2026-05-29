@@ -30,6 +30,9 @@ $> I have my repos pinned below, the README files have links for you to <br />us
 $> I focus on web development because I believe that the browser is more <br />capable than we use it for.
 <br />
 $> I believe in software on demand. While running servers is cool, I <br >firmly believe that professional providers will always give me better <br />uptime and reliability.
+<br />
+$> Lastly, I am not a salesman. My investment portfolio acts as funding<br />
+for Boyo Labs. I do this for the fun of it.
 
 =========================================================================  
   [03] EDUCATION/EMPLOYMENT
