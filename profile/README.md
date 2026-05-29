@@ -37,7 +37,7 @@
 
   * I went to school for philosophy, and while I loved it, it wasn't a <br />workable future.
  <br />
-  * I have always loved computers and programming, so I did a couple <br />certificate courses after realizing a technical degree wasn't really what <br >I was after.
+  * I have always loved computers and programming, so I did a couple <br />certificate programs after realizing a technical degree wasn't really what <br >I was after.
  <br />
   * I first taught computer science, coding & programming k-12 after this.
  <br />
