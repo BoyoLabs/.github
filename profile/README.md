@@ -31,7 +31,7 @@ $> I focus on web development because I believe that the browser is more <br />c
 <br />
 $>  While running servers is cool, I firmly believe that professional <br />providers will always give me better uptime and reliability.
 <br />
-$> Lastly, I am not a salesman. My investment portfolio acts as funding<br />for Boyo Labs. I do this for the fun of it.
+$> Lastly, I am not a salesman. My investment portfolio acts as funding<br />for Boyo Labs. No ads.
 
 =========================================================================  
   [03] EDUCATION/EMPLOYMENT
