@@ -29,7 +29,7 @@ $> I have my repos pinned below, the README files have links for you to <br />us
 
 $> I focus on web development because I believe that the browser is more <br />capable than we use it for. I believe in software on demand.
 <br />
-$> I also do a lot of work with openscad. Basically, the philosophy is that I try to make things for myself ultimately. Even if it already exists, having my own allows me to have more control and pride in what I am doing. Of course, there are some things I just don't want to do, like run my own github server.
+$> I also do a lot of work with openscad. Basically, the philosophy is <br />that I try to make things for myself ultimately. Even if it already exists, having my own allows me to have more control and pride in what I am doing. Of course, there are some things I just don't want to do, like run my own github server.
 <br />
 $>  While running servers is cool, I firmly believe that professional <br />providers will always give me better uptime and reliability.
 <br />
