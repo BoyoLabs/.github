@@ -18,7 +18,7 @@
 boyo@labs : ~
 $> This is my development lab as well as portfolio. Please feel free to <br />look around!
 <br />
-$> I mostly do single page apps in my repos and try to limit each repo <br />to a manageable number
+$> I mostly do single page apps (web apps, openscad, and LLM-native apps) <br />in my repos and try to limit each repo to a manageable number
 <br />
 $> I have my repos pinned below, the README files have links for you to <br />use the software <u>right now!</u>
     
